@@ -1,6 +1,6 @@
 streamlit
 matplotlib
-Seaborn
+seaborn
 URLExtract
 pandas
 emoji
